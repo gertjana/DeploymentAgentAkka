@@ -1,7 +1,6 @@
 package net.addictivesoftware.deploymentagent
 
 import akka.actor._
-import akka.event.Logging
 
 
 import akka.cluster.Cluster;
